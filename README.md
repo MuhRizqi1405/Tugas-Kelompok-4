@@ -1,4 +1,9 @@
 # Tugas-Kelompok-4
+-**Muhammad Imam Muttaqin** **(09011382429142)**
+-**Pelangi Larasati** **(09011382429144)**
+-**M.Rizqi** **(09011382429146)**
+-**Bagas Adi Saputra** **(09011382429148)**
+-**Frelita Tri Anggita** **(09011382429152)**
 ## Pengertian Uninterruptible Power Supply (UPS)
 UPS adalah perangkat yang dirancang untuk mengatasi gangguan kelistrikan dan menyediakan daya listrik sementara ketika sumber utama (PLN) padam.
 
