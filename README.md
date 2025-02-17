@@ -15,6 +15,7 @@ Dapat memberikan energi listrik sementara ketika terjadi kegagalan daya pada lis
  ## Jenis ups / cara kerja ups
  ## UPS OFFLINE
 ![UPS-line-interactive-cu-LCD-700VA_5688_3](https://github.com/user-attachments/assets/15957554-7347-4d8f-a574-6a23108ea1eb)
+
  Saat UPS menerima daya dari sumber listrik utama, output UPS akan mengalirkan listrik ke perangkat yang terhubung. Jika tegangan listrik utama berada di luar rentang yang ditentukan, UPS akan otomatis beralih ke mode baterai. Dalam mode ini, inverter akan mengubah daya DC dari baterai menjadi listrik AC 220V untuk mensuplai perangkat. Proses peralihan dari sumber listrik utama ke baterai ini terjadi sangat cepat, dalam waktu kurang dari 2 hingga 4 milidetik (transfer time).
 
  ## UPS ONLINE
@@ -24,17 +25,21 @@ Dapat memberikan energi listrik sementara ketika terjadi kegagalan daya pada lis
  ## KOMPONEN-KOMPONEN UTAMA PADA UPS
 • Baterai
 ![image](https://github.com/user-attachments/assets/d970dd9e-e92c-4edb-9e13-fd3738159488)
+
 Jenis baterai yang digunakan UPS umumnya berjenis lead-acid atau jenis nikel-cadmium.
 Baterai ini umumnya mampu menjadi sumber tegangan cadangan maksimal selama 30 menit.
 • Rectifier
 ![image](https://github.com/user-attachments/assets/cbb545f3-f00f-49e2-adbe-a3293ac1b028)
+
 Penyearah atau Rectifier berfungsi untuk mengubah arus AC menjadi arus DC (direct current) atau DC dari suplai listrik utama. Hal ini bermanfaat pada saat pengisian baterai.
 • Inverter
 ![image](https://github.com/user-attachments/assets/668db933-bb25-4e01-a4fe-5ce553e7096b)
+
 Kebalikan dari penyearah, inverter berfungsi untuk mengubah arus DC dari baterai menjadi arus AC. Hal ini dilakukan pada saat baterai pada UPS digunakan
 untuk memberikan tegangan ke komputer.
 • Transfer Switch
 ![image](https://github.com/user-attachments/assets/c547f3d2-163b-4e66-be78-896869495487)
+
 Transfer Switch adalah saklar listrik yang menghubungkan sumber tenaga listrik dari sumber utama ke sebuah sumber cadangan
 (UPS). Saklar ini dapat dioperasikan secara manual atau secara otomatis. Automatic Transfer Switch - ATS sering dipasang di mana sebuah sumber daya cadangan terletak, sehingga dapat memberikan daya listrik sementara jika sumber listrik terputus.
 
